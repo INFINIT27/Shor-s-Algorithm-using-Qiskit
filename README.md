@@ -5,13 +5,13 @@ For this project, you need to have installed a few libraries from Qiskit. Due to
 
 It is highly recommended to create a virtual python environment so that the packages you will install don't collide with older or other packages that result in crashes. To do that, you can use the "venv" command and create a new directory with the new elements. One guide provided for this step can be found under "https://docs.quantum.ibm.com/start/install"
 
-After having the environment prepared, you need to install the following packages:
+After having the environment prepared, you need to install the following packages:<br>
 
-1- qiskit
-2- qiskit_aer
-3- qiskit-ibm-runtime
-4- qiskit[visualization]
-5- jupyter
+1- qiskit <br>
+2- qiskit_aer <br>
+3- qiskit-ibm-runtime <br>
+4- qiskit[visualization] <br>
+5- jupyter <br>
 
 To install the packages, you can use the command:
 pip install <package_name>
